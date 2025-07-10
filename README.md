@@ -14,4 +14,4 @@ This GitHub repository includes:
 - **Poster**: A visual summary of the project.
 - **Dataset**: The dataset used for training the model.
 
-> **Note**: The complete application can be found in a separate GitHub repository [here](link-to-other-repo).
+> **Note**: The complete application can be found in a separate GitHub repository [here](https://github.com/AnangAyman/Software-engineering-S4).
