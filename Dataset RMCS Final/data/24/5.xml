@@ -1,0 +1,26 @@
+<annotation>
+	<folder>24</folder>
+	<filename>5.jpg</filename>
+	<path>C:\Users\ddech\Documents\Machine learning\MachineLearning_Project\data\24\5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Y</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>748</xmin>
+			<ymin>463</ymin>
+			<xmax>1206</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>
