@@ -18,7 +18,7 @@ This GitHub repository includes:
 
 <!-- Change this -->
 
-![alt text]()
+![alt text](https://github.com/AnangAyman/RMCS-CNN-LSTM/blob/main/RMCS%20Poster.png)
 
 > **Note**: The complete application can be found in a separate GitHub repository [here](https://github.com/AnangAyman/Software-engineering-S4).
 > 
